@@ -6,6 +6,8 @@ Created on Fri Sep 17 16:39:17 2021
 @author: Jorge
 """
 
+# algebra linear
+
 import math
 import numpy as np
 from sympy import symbols, Matrix
